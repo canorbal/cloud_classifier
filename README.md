@@ -8,3 +8,5 @@
 
 
 Я руками собрал датасет для обучения ([ссылка](https://drive.google.com/file/d/1MbHN3focNiT0jrTeN_WfcTMaiTkwULYn/view?usp=sharing) на данные для обучения/валидации)
+
+Для запуска в Google colab нужно загрузить в него чекпоинт [best.pt](https://github.com/canorbal/cloud_classifier/blob/master/best.pt)
